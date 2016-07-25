@@ -1,3 +1,4 @@
+10990 漆翔宇
 1.创建WEB项目
 mvn archetype:generate -DgroupId=com.hand -DartifactId=webTest -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false -DarchetypeCatalog=local
 2.添加jetty plugin

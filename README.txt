@@ -27,3 +27,5 @@ mvn archetype:generate -DgroupId=com.hand -DartifactId=webTest -DarchetypeArtifa
     </properties>  
    
 
+更新
+在eclipse上pull项目,写了一个java类
